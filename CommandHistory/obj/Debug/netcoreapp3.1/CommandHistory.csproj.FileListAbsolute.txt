@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\CommandHistory\CommandHistory\bin\Debug\netcoreapp3.1\CommandHistory.exe
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\CommandHistory\CommandHistory\bin\Debug\netcoreapp3.1\CommandHistory.deps.json
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\CommandHistory\CommandHistory\bin\Debug\netcoreapp3.1\CommandHistory.runtimeconfig.json
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\CommandHistory\CommandHistory\bin\Debug\netcoreapp3.1\CommandHistory.runtimeconfig.dev.json
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\CommandHistory\CommandHistory\bin\Debug\netcoreapp3.1\CommandHistory.dll
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\CommandHistory\CommandHistory\bin\Debug\netcoreapp3.1\CommandHistory.pdb
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\CommandHistory\CommandHistory\obj\Debug\netcoreapp3.1\CommandHistory.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\CommandHistory\CommandHistory\obj\Debug\netcoreapp3.1\CommandHistory.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\CommandHistory\CommandHistory\obj\Debug\netcoreapp3.1\CommandHistory.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\CommandHistory\CommandHistory\obj\Debug\netcoreapp3.1\CommandHistory.AssemblyInfo.cs
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\CommandHistory\CommandHistory\obj\Debug\netcoreapp3.1\CommandHistory.dll
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\CommandHistory\CommandHistory\obj\Debug\netcoreapp3.1\CommandHistory.pdb
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\CommandHistory\CommandHistory\obj\Debug\netcoreapp3.1\CommandHistory.genruntimeconfig.cache
